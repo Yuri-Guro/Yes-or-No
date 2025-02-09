@@ -18,8 +18,8 @@ body {
 }
 .wrapper {
     position: relative;
-    width: 600px;
-    height: 400px;
+    width: 750px;
+    height: 450px;
     background: #fff;
     border-radius: 20px;
     display: flex;
