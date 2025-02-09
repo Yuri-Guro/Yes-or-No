@@ -6,8 +6,8 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'Nah you smell like a dog';
-    document.getElementById("catto").src = "doggo.jpg";
+    question.innerHTML = 'I know you would  say yes my gremlin ;D';
+    document.getElementById("catto").src = "catto-loved.jpg";
     yesBtn.style.display="none"
     noBtn.style.display="none"
 })
